@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="SortExampleIComparer/SortExampleIComparer.csproj">
+  <DisabledProjects>
+    <String>SortExampleIComparer/SortExampleIComparer.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortExampleIComparer/Program.cs">
+    <Files>
+      <File FileName="SortExampleIComparer/Program.cs" Line="22" Column="45" />
+      <File FileName="SortExampleIComparer/Person.cs" Line="8" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
