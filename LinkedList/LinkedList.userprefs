@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="LinkedList/LinkedList.csproj" />
+﻿<Properties StartupItem="LinkedList/LinkedList.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedList/Node.cs">
+    <Files>
+      <File FileName="LinkedList/Program.cs" Line="1" Column="1" />
+      <File FileName="LinkedList/Node.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

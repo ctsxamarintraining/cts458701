@@ -1,0 +1,10 @@
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/FormsApp2.dll.mdb
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/FormsApp2.dll
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/obj/Debug/FormsApp2.dll
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/obj/Debug/FormsApp2.dll.mdb
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/Xamarin.Forms.Core.dll
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/SQLite.Net.dll
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/SQLitePCL.raw.dll
+/Users/krishnarohit/Projects/FormsApp2/FormsApp2/bin/Debug/SQLite-net.dll

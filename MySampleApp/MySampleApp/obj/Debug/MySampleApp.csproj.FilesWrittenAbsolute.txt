@@ -5,3 +5,10 @@
 /Users/krishnarohit/Projects/MySampleApp/MySampleApp/bin/Debug/MySampleApp.dll
 /Users/krishnarohit/Projects/MySampleApp/MySampleApp/obj/Debug/MySampleApp.dll
 /Users/krishnarohit/Projects/MySampleApp/MySampleApp/obj/Debug/MySampleApp.dll.mdb
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/bin/Debug/MySampleApp.dll.mdb
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/bin/Debug/MySampleApp.dll
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/obj/Debug/MySampleApp.dll
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/obj/Debug/MySampleApp.dll.mdb
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/krishnarohit/Desktop/cts458701/MySampleApp/MySampleApp/bin/Debug/Xamarin.Forms.Xaml.dll
