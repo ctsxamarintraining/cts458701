@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FormsApp2.FootballPlayerDetailPage">
+	
+
+	<ContentPage.Padding>
+	0,20,0,0
+	</ContentPage.Padding>
+		<ContentPage.Content>
+		<StackLayout>
+		<StackLayout.Padding>
+0,20,0,0
+		</StackLayout.Padding>
+	<Label 	Text = "Player FirstName" HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="FirstNameLabel" />
+	<Label 	HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="FirstNameDetail" />
+
+	<Label Text = "Player LastName"
+	HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="LastNameLabel" />
+	<Label 
+	HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="LastNameDetail" />
+					
+	<Label Text = "Date of Birth" HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="DOBLabel"/>
+	<Label HorizontalOptions="CenterAndExpand" x:Name="DOBDetail"/>
+
+	<Label Text = "Country" HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua"/>
+
+    <Label     TextColor="Blue" HorizontalOptions="CenterAndExpand" FontSize="Large"  x:Name="CountryDetail" />
+
+
+
+	<Label Text = "Description" HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua"/>
+
+    <Label   
+    TextColor="Blue" HorizontalOptions="CenterAndExpand" FontSize="Large"  x:Name="DescriptionDetail" />
+ 
+
+<!---	<Label Title = "Country" HorizontalOptions="CenterAndExpand"  x:Name="Country" />-->
+
+
+		</StackLayout>
+	</ContentPage.Content>
+
+
+
+</ContentPage>

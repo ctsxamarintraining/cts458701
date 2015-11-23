@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="iOS/FormsApp2.iOS.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsApp2/MyViews/FootballPlayerListPage.cs">
+    <Files>
+      <File FileName="FormsApp2/MyViews/FootballPlayerDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FormsApp2/MyViews/FootballPlayerDetailPage.xaml" Line="26" Column="112" />
+      <File FileName="FormsApp2/MyViews/CreateFootballPlayer.xaml" Line="4" Column="14" />
+      <File FileName="FormsApp2/MyViews/CreateFootballPlayer.xaml.cs" Line="39" Column="57" />
+      <File FileName="FormsApp2/MyModelViews/FootballPlayerViewModel.cs" Line="100" Column="65" />
+      <File FileName="FormsApp2/MyModelViews/MyBaseViewModel.cs" Line="1" Column="1" />
+      <File FileName="FormsApp2/MyViews/FootballPlayerListCell.cs" Line="37" Column="30" />
+      <File FileName="FormsApp2/MyModels/FootballPlayer.cs" Line="112" Column="1" />
+      <File FileName="FormsApp2/MyModels/MySqlConn.cs" Line="1" Column="1" />
+      <File FileName="FormsApp2/MyViews/FootballPlayerListPage.cs" Line="19" Column="16" />
+      <File FileName="iOS/Sqlite_IOS.cs" Line="19" Column="1" />
+      <File FileName="FormsApp2/MyViews/PickPhotoRenderer.cs" Line="1" Column="1" />
+      <File FileName="iOS/PhotoPickIOSRender.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="FormsApp2/MyStartFiles/DetailsPage.cs" Line="1" Column="1" />
+      <File FileName="FormsApp2/MyStartFiles/FormsApp2.cs" Line="14" Column="32" />
+      <File FileName="FormsApp2/MyStartFiles/MyMasterDetail.cs" Line="37" Column="45" />
+      <File FileName="FormsApp2/MyViews/LoginPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/krishnarohit/Projects/FormsApp2/FormsApp2/MyViews/CreateFootballPlayer.xaml" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="FormsApp2/obj/Debug/FormsApp2.MyViews.CreateFootballPlayer.xaml.g.cs" line="40" offsetX="661" offsetY="585" expression="global::Xamarin.Forms" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

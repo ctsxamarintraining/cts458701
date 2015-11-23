@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FormsApp2.CreateFootballPlayer">
+	<ContentPage.Content>
+	<ScrollView>
+		<StackLayout>
+			<Entry Placeholder = "FirstName goes here!"
+			HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="FirstName" />
+
+			<Entry Placeholder = "LastName goes here!"
+			HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua" x:Name="LastName" />
+				
+			<Label Text = "Date of Birth" HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua"/>
+
+			<DatePicker HorizontalOptions="CenterAndExpand" Format ="dd-MM-yyyy" x:Name="DOB"/>
+			<Label Text = "Description" HorizontalOptions="CenterAndExpand" FontSize="Large" TextColor="Aqua"/>
+<Editor BackgroundColor = "Black" WidthRequest = "400" HeightRequest = "100" TextColor="White" HorizontalOptions="CenterAndExpand" FontSize="Large"  x:Name="Desc" />
+			<Picker Title = "Country"
+			HorizontalOptions="CenterAndExpand"  x:Name="Country" />
+
+			<Button Text="PickImage" x:Name="imagePicker"/>
+
+			<Button Text="Save it!" x:Name="Save"/>
+
+		</StackLayout>
+
+	</ScrollView>
+	</ContentPage.Content>
+</ContentPage>
