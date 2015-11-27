@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="BST/BST.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPadAir.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BST/ViewController.cs">
+    <Files>
+      <File FileName="BST/ViewController.cs" Line="44" Column="4" />
+      <File FileName="BST/BinarySearchTree.cs" Line="66" Column="24" />
+      <File FileName="BST/NodeView.cs" Line="19" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

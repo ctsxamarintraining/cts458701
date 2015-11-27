@@ -1,0 +1,39 @@
+# Version: 9.0.1.29 (xcode7-c5: 1d27ac2)
+# [first argument, ignore] # /Users/krishnarohit/Projects/BST 3/BST/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.0.1.29/bin/mtouch \
+	--cache \
+	"/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--sim \
+	"/Users/krishnarohit/Projects/BST 3/BST/bin/iPhoneSimulator/Debug/BST.app" \
+	--executable \
+	BST \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.3 \
+	--targetver \
+	8.3 \
+	--abi=i386 \
+	--symbollist \
+	"/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	"/Users/krishnarohit/Projects/BST 3/packages/Xamarin.TestCloud.Agent.0.13.0/lib/Xamarin.iOS10/Calabash.dll" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	"/Users/krishnarohit/Projects/BST 3/packages/Xamarin.TestCloud.Agent.0.13.0/lib/Xamarin.iOS10/Calabash.dll" \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	"/Users/krishnarohit/Projects/BST 3/BST/bin/iPhoneSimulator/Debug//BST.exe" \

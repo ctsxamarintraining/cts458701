@@ -1,0 +1,13 @@
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/optimized/
+/Users/krishnarohit/Projects/BST 3/BST/bin/iPhoneSimulator/Debug/BST.exe.mdb
+/Users/krishnarohit/Projects/BST 3/BST/bin/iPhoneSimulator/Debug/BST.exe
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/BST.exe
+/Users/krishnarohit/Projects/BST 3/BST/obj/iPhoneSimulator/Debug/BST.exe.mdb
+/Users/krishnarohit/Projects/BST 3/BST/bin/iPhoneSimulator/Debug/Calabash.dll
